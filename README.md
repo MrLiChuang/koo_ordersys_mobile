@@ -1,4 +1,4 @@
-# my_mos
+# koo_ordersys_mobile
 
 > 基于vue.js开发的点餐系统移动端项目(无后端)
 
