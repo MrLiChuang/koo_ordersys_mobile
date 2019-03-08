@@ -1,6 +1,6 @@
 # my_mos
 
-> a
+> 基于vue.js开发的点餐系统移动端项目(无后端)
 
 ## Build Setup
 
