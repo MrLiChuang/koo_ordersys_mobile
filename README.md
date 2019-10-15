@@ -15,5 +15,9 @@
 # install dependencies
 npm install
 
+#start server
+cd server
+node index
+
 # serve with hot reload at localhost:8088
 npm run dev
